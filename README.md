@@ -6,14 +6,11 @@
 
 ### Live Demo: <a href="https://abulhasan0815.github.io/Todo-List-App/">Right Here</a>
 
-## 🛠️ Tech Stack
-### Client: HTML, CSS, JavaScript
-
-## ✨ Features
-
+## 🛠️ Tech Stack and Features
+### HTML, CSS, JavaScript
 #### 1. Add a new task
 #### 2. Mark a task done
 #### 3. Delete a task
 #### 4. Edit a task
 
-<img src="https://github.com/abulhasan0815/Todo-List-App/blob/main/assets/LookUp.png" alt="Website Look Up"/>
+<img align="right" src="https://github.com/abulhasan0815/Todo-List-App/blob/main/assets/LookUp.png" alt="Website Look Up"/>
