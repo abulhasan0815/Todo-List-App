@@ -20,8 +20,7 @@
 
 ## 📦 Installation
 
-### Clone the repository:
-
+### Run on Command Line: 
 ```bash
 git clone https://github.com/abulhasan0815/Todo-List-App.git
 
